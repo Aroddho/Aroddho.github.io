@@ -1,0 +1,27 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import "variables";
+@import "helpers";
+@import "vendor/fontello";
+@import "vendor/normalize";
+@import "typography";
+@import "common";
+@import "components/header";
+@import "components/thumbnails";
+@import "page-specific/home";
+@import "page-specific/demo";
+@import "page-specific/category";
+@import "page-specific/contact";
+@import "page-specific/about";
+@import "page-specific/quiz";
+@import "page-specific/flashcards";
+@import "vendor/nouislider";
+@import "components/forms";
+@import "components/tables";
+@import "components/ui";
+@import "components/footer";
+@import "components/alerts";
+@import "components/modal";
